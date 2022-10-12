@@ -1,0 +1,24 @@
+Project Description
+~~~~~~~~~~~~~~~~~~
+I was part of a product called V-Optimer as a junior QA, was doing manual as well as api testing for billing module
+where i had to do UI testing for verious UI elements like graphs,tables, paginations etc.
+and tested various APIs that are used in the billing module, like customer call record history,its duration and date and time.
+
+The product was all about giving a transparent views of useage/utilizations of calls, data, messages to the customers
+in a better graphical representaion.
+
+Tools:  JIRA, Confluence, Sharepoint, postman(For API Testing), RDM
+Technologies used: Web services(ie REST) SOAP you didn't used
+JIRA:- Defect tracking tool
+Confluence:- Knowledge sharing protal where we can persist our project archetecture, technologies are being used and many other information related to project
+Sharepoint:- Its a product of microsoft where it provides the platform to work together and provides standered business process for information sharing, document publishing etc
+			(ie-> given a excel sheet with a numbers of test scenarios  where multiple people are working on the same sheet
+			each and every individual has to know which one is tested so that there wont be any duplicate work for that reason the same excel should be 
+			accessed to all the particepents and there we used microsoft sharepoint)
+
+challenges you faced:- 
+first:- Sometimes the testing requirements for a goven user story/user storys working functionality was not clear for us, 
+Then we had to approach developer/Product manager to get the better understading, and somtimes its become challenging to put everyting in a single story, 
+for those types complex stories sometimes i used to feel challenging.
+Second:- we always had to ask for test data, to test certain scenarios we need certain test data which should match certain crateria
+and sometimes we used face unavilablity of those kind of test data or used to take time to create those.
